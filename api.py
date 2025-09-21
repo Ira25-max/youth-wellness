@@ -1,0 +1,2 @@
+# api.py
+GENAI_API_KEY = "AIzaSyBvZN5SAoM4lgo2sVzX7r6Cdm-6P0R8TuY"
